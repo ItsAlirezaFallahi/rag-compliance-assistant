@@ -1,0 +1,6 @@
+openai>=1.40
+psycopg[binary]>=3.2
+pgvector>=0.3
+pypdf>=4.3
+tiktoken>=0.7
+python-dotenv>=1.0
